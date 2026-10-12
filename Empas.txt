@@ -1,0 +1,16 @@
+HOBBIES:
+	Playing games
+	Coding
+	Learning
+	Sleeping
+
+FAV MOVIES:
+	Avengers: Doomsday
+	Fifty Shades of Grey
+	Spider-Man
+
+Books
+	The Notebook
+	El Filibusterismo
+	Dictionary
+	Noli Me Tangere
