@@ -1,7 +1,8 @@
 HOBBIES:
 	Playing games
 	Coding
-	Ano jay
+	Learning
+	Sleeping
 
 FAV MOVIES:
 	Avengers: Doomsday
@@ -12,3 +13,4 @@ Books
 	The Notebook
 	El Filibusterismo
 	Dictionary
+	Noli Me Tangere
