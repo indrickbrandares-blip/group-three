@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Dian Bayottt
-=======
 Hi everyone!!!
->>>>>>> origin/dev-main-v1
+
